@@ -1,10 +1,13 @@
-## Jason Beck (Septicon)
+## Jason Beck
 
 ### Summer 2021 
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Introduction to Data Science
+
+|**Prefix** |**Number** | _Name_                         |Credits|
+|:----------|:----------|:-------------------------------|:------|
+|**COP**    |**2073**   | _Introduction to Data Science_ |3      |
 
 **Hobbies:**
 
@@ -18,4 +21,4 @@ I am _passionate about_:
 
 ***
 
-> Last modified: 2021/07/07
+> Last modified: 2021/07/15
